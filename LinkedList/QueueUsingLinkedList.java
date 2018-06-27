@@ -46,6 +46,7 @@ class QueueUsingLinkedList{
 		queue.showQueue();
 		queue.deQueue();
 		queue.showQueue();
+		queue.enQueue(45);
 	}
 
 }
